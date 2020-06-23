@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389276406504",
+    "firebase_url": "https://survey-app-v1.firebaseio.com",
+    "project_id": "survey-app-v1",
+    "storage_bucket": "survey-app-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389276406504:android:ee5e276984fc68a5c22f5d",
+        "android_client_info": {
+          "package_name": "fun.worldspeaker.survey_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389276406504-h4tthns5hpcv9osa1jakdl8o8h55t9tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk1b3Sh0AiMmJy0sCmex-HCbRGTf2nJLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389276406504-h4tthns5hpcv9osa1jakdl8o8h55t9tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
